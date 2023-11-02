@@ -1,0 +1,24 @@
+body { 
+          font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          background-color: #121214;
+          gap: 0.5rem;
+          padding: 24px;
+          }
+          strong {
+            font-size: 1.2rem;
+            color: white;
+          }
+          p {
+              color: #C4C4CC;
+          }
+          ul li {
+              color: white;
+          }
+
+          a {
+              cursor: pointer;
+              color: white;
+          }
